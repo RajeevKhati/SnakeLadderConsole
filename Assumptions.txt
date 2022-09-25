@@ -1,0 +1,9 @@
+
+Assumptions:-
+
+1. Only one player wins the game, after which game ends.
+2. Player has to reach 100 mark exact to win the game.
+3. If summation of dice and current position goes beyond 100, then player has to wait for their next turn.
+4. Board has 100 boxes
+5. There are 4 different configurations for snakes and ladders, which could be selected.
+6. To execute program start from Main.py
